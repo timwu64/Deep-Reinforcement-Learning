@@ -1,2 +1,2 @@
 # Deep-Reinforcement-Learning
- Udaciity Reinforcement Learning Course
+ Udacity Reinforcement Learning Course
